@@ -20,3 +20,8 @@ footer {
   position: absolute;
   width: 100%;
 }
+
+.portfolio-image {
+  width: 150px;
+  height: 200px;
+}
